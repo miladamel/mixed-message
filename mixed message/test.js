@@ -3,7 +3,7 @@ const random_num = (num) => {
 }
 
 const random_message = {
-    funny : ['dunky','goody','chet','crazzy'],
+    funny : ['dunky','goody','chet','crazzy','younky'],
     goodNews : ['good day','good morning','good man ','good friend'],
     news : ['good job','oh tanks','your are very son','you is my bro']
 }
